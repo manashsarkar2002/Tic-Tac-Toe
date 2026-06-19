@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+<img width="1897" height="163" alt="Tic Tac Toe" src="https://github.com/user-attachments/assets/c8eb6926-c71e-4620-bf42-5a7d39b8650d" />
 
 A simple and interactive Tic-Tac-Toe game developed using HTML, CSS, and JavaScript.
 
